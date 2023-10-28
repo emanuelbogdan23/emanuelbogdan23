@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Emanuel! 
 
-<!--
-**emanuelbogdan23/emanuelbogdan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- [Active Directory Home Lab](https://github.com/emanuelbogdan23/ActiveDirectory-HomeLab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📄 Certifications:</h2>
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8737246d-c962-496d-8874-d0dc1e95e7a8/linked_in_profile)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="EmanuelBogdanovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/emanuel-bogdanovic-4386ba204/
