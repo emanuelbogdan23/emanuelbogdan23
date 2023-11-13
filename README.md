@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/emanuelbogdan23/ActiveDirectory-HomeLab)
-- [Nessus Vulnerability Management Lab](https://github.com/emanuelbogdan23/Nessus-VulnerabilityManagement)
+- [Nessus Vulnerability Management](https://github.com/emanuelbogdan23/Nessus-VulnerabilityManagement)
+- [SIEM - Azure Sentinel](https://github.com/emanuelbogdan23/SIEM-AzureSentinel)
 
 <h2>📄 Certifications:</h2>
 
